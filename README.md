@@ -1,5 +1,9 @@
 # Problemas de IA - Jarras, Misioneros y Pila
 
+**Autor:** Jamil Marciaga  
+**Curso:** Inteligencia Artificial  
+**Fecha:** 10/11/2026
+
 ## Contenido
 - `problema1_jarras.py`: Jarras de 4 y 3 galones → obtener 2 galones.
 - `problema2_misioneros_canibales.py`: 3 misioneros y 3 caníbales cruzan el río.
@@ -9,3 +13,4 @@
 ## Cómo ejecutar
 ```bash
 python menu_principal.py
+```
