@@ -1,7 +1,9 @@
 # Problemas de IA - Jarras, Misioneros y Pila
 
-**Autor:** Jamil Marciaga  
-**Curso:** Estructura de datos 
+**Autor:** Jamil Marciaga
+
+**Curso:** Estructura de datos
+
 **Fecha:** 10/11/2026
 
 ## Contenido
